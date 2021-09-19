@@ -13,7 +13,7 @@
 - ⚡ Fun fact: I use tabs over spaces  
   
 
-- ⚙️ Mastering: .html,.css,.js.  
+- ⚙️ Mastering: `.html`,`.css`,`.js`.  
   
 
 <br/>  
