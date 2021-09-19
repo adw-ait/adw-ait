@@ -1,6 +1,9 @@
 <img src="https://github.com/adw-ait/adw-ait/blob/main/assets/adw-ait_github.gif?raw=true" align="left" style="width: 100%" />  
   
 
+   
+  
+
 - 👨‍💻 I'm currently working on [Assignment-writer](https://github.com/adw-ait/Assignment-Writer)  
   
 
@@ -82,4 +85,3 @@
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
